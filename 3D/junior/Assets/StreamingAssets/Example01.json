@@ -1,0 +1,10 @@
+{
+	"width": 3000,
+	"height": 400,
+	"depth": 600,
+	"backPanel": { "depth": 5 },
+	"header": { "height": 50 },
+	"footer": { "height": 100 },
+	"leftSide": { "width": 80 },
+	"rightSide": { "width": 80 }
+}

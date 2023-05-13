@@ -1,0 +1,14 @@
+{
+	"width": 400,
+	"height": 2500,
+	"depth": 300,
+	"backPanel": { "depth": 10 },
+	"header": { "height": 50 },
+	"footer": { "height": 50 },
+	"leftSide": { "width": 50 },
+	"rightSide": { "width": 50 },
+	"shelves": [
+		{ "height": 50, "y": 800 },
+		{ "height": 50, "y": 1200 }
+	]
+}

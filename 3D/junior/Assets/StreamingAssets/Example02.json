@@ -1,0 +1,15 @@
+{
+	"width": 800,
+	"height": 2000,
+	"depth": 200,
+	"backPanel": { "depth": 5 },
+	"header": { "height": 100 },
+	"footer": { "height": 400 },
+	"leftSide": { "width": 50 },
+	"rightSide": { "width": 50 },
+	"shelves": [
+		{ "height": 20, "y": 800 },
+		{ "height": 20, "y": 1200 },
+		{ "height": 20, "y": 1600 }
+	]
+}
